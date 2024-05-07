@@ -1,7 +1,7 @@
 public class SistemaMedida {
 
         //Switch Case
-   /* public static void main(String[] args) {
+    public static void main(String[] args) {
         String sigla = "G";
         
         switch (sigla) {
@@ -19,5 +19,5 @@ public class SistemaMedida {
                 System.out.println("Indefinido");
                 break;
         }
-    } */
+    }
 }
