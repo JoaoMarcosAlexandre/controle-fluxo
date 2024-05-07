@@ -1,7 +1,7 @@
 public class ResultadoEscolar {
 
     //Condionais Compostas
-    
+
     public static void main(String[] args) {
         int nota = 6;
 
