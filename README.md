@@ -13,3 +13,5 @@ Neste repopsitório, estão os exemplos de estruturas condicionais:
 -> TERNÁRIAS
 
 -> SWITCH CASE
+
+-> ESTRUTURAS DE REPETIÇÃO
